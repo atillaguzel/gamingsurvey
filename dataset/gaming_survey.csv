@@ -1,4 +1,4 @@
-,Gender,Age,Frequency,Device,Genres,Fun,Competency,Break,Education,Fitness,Community,Professional,Challenge,Socialize
+,Gender,Age,Frequency,Device,Genres,L_Fun,L_Competency,L_Break,L_Education,L_Fitness,L_Community,L_Professional,L_Challenge,L_Socialize
 0,Male,35-39,Less than 3 hours a week,Smartphone,Simulation;Strategy,5,4,6,3,1,1,1,2,1
 1,Male,40-45,20 hours or more a week,PC/Laptop,Racing,7,3,7,1,1,1,1,5,1
 2,Male,18-24,3-5 hours a week,"Smartphone;Gaming Console (Playstation, Xbox or Nintendo Wii / U / Switch);Portable Console (PSP, PS Vita, Nintendo 3DS / DS)",Arcade;Simulation;Puzzle;Strategy;Racing;Sports,7,6,7,1,1,1,1,1,4
